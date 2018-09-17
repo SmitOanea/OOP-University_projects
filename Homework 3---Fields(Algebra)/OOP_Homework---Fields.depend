@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1527759977 source:d:\programare\c++ poo\oop_homework---fields\main.cpp
+	"GrupAditiv.h"
+	"GrupMultiplicativ.h"
+	"CorpFinit.h"
+	<iostream>
+	<vector>
+
+1527722063 source:d:\programare\c++ poo\oop_homework---fields\src\grupmultiplicativ.cpp
+	"GrupMultiplicativ.h"
+
+1527751373 d:\programare\c++ poo\oop_homework---fields\include\grupmultiplicativ.h
+	"iostream"
+	"Multime.h"
+
+1527752330 source:d:\programare\c++ poo\oop_homework---fields\src\multime.cpp
+	<iostream>
+	"Multime.h"
+
+1527759627 d:\programare\c++ poo\oop_homework---fields\include\multime.h
+
+1527726503 source:d:\programare\c++ poo\oop_homework---fields\src\grupaditiv.cpp
+	"GrupAditiv.h"
+
+1527759537 d:\programare\c++ poo\oop_homework---fields\include\grupaditiv.h
+	"iostream"
+	"Multime.h"
+
+1525465135 source:d:\programare\c++ poo\oop_homework---fields\src\corp.cpp
+	"Corp.h"
+
+1527706076 d:\programare\c++ poo\oop_homework---fields\include\corp.h
+	"GrupAditiv.h"
+	"GrupMultiplicativ.h"
+
+1526924575 d:\programare\c++ poo\oop_homework---fields\include\elementgrupaditiv.h
+
+1526922902 source:d:\programare\c++ poo\oop_homework---fields\src\elementcorpfinit.cpp
+	"ElementCorpFinit.h"
+
+1527726184 d:\programare\c++ poo\oop_homework---fields\include\elementcorpfinit.h
+
+1526923685 source:d:\programare\c++ poo\oop_homework---fields\src\elementgrupaditiv.cpp
+	"ElementGrupAditiv.h"
+
+1527766906 source:d:\programare\c++ poo\oop_homework---fields\src\corpfinit.cpp
+	"iostream"
+	"CorpFinit.h"
+
+1527763309 d:\programare\c++ poo\oop_homework---fields\include\corpfinit.h
+	<iostream>
+	"GrupAditiv.h"
+	"GrupMultiplicativ.h"
+
+1527711112 d:\programare\c++ poo\oop_homework---fields\include\functii.h
+	<iostream>
+
+1536780639 source:d:\programare\c++ poo\homework 3---fields(algebra)\main.cpp
+	"GrupAditiv.h"
+	"GrupMultiplicativ.h"
+	"CorpFinit.h"
+	<iostream>
+	<vector>
+
+1527759537 d:\programare\c++ poo\homework 3---fields(algebra)\include\grupaditiv.h
+	"iostream"
+	"Multime.h"
+
+1527759627 d:\programare\c++ poo\homework 3---fields(algebra)\include\multime.h
+
+1527751373 d:\programare\c++ poo\homework 3---fields(algebra)\include\grupmultiplicativ.h
+	"iostream"
+	"Multime.h"
+
+1527763309 d:\programare\c++ poo\homework 3---fields(algebra)\include\corpfinit.h
+	<iostream>
+	"GrupAditiv.h"
+	"GrupMultiplicativ.h"
+
+1527766906 source:d:\programare\c++ poo\homework 3---fields(algebra)\src\corpfinit.cpp
+	"iostream"
+	"CorpFinit.h"
+
+1526923685 source:d:\programare\c++ poo\homework 3---fields(algebra)\src\elementgrupaditiv.cpp
+	"ElementGrupAditiv.h"
+
+1526924575 d:\programare\c++ poo\homework 3---fields(algebra)\include\elementgrupaditiv.h
+
+1527726503 source:d:\programare\c++ poo\homework 3---fields(algebra)\src\grupaditiv.cpp
+	"GrupAditiv.h"
+
+1527722063 source:d:\programare\c++ poo\homework 3---fields(algebra)\src\grupmultiplicativ.cpp
+	"GrupMultiplicativ.h"
+
+1527752330 source:d:\programare\c++ poo\homework 3---fields(algebra)\src\multime.cpp
+	<iostream>
+	"Multime.h"
+
