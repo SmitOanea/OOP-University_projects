@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524707304 source:d:\programare\c++ poo\listadenumereintregi---oaneasmit-andrei\main.cpp
+	<iostream>
+	<fstream>
+
+1527753966 source:d:\facultate\semestrul 2\poo\proiectepoo\liste-dublu-inlantuite-master\listadenumereintregi---oaneasmit-andrei\main.cpp
+	<iostream>
+	<fstream>
+
